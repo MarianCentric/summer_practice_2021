@@ -1,4 +1,6 @@
-﻿using System.Text;
+﻿using System.Collections;
+using System.Collections.Generic;
+using System.Text;
 
 namespace FizzBuzz.Business
 {
@@ -12,7 +14,7 @@ namespace FizzBuzz.Business
         ///     "&lt;input&gt;" if none of previous conditions have benn meet
         /// </summary>
         /// <param name="input"></param>
-        /// <returns></returns>
+        /// <returns>"FIZZ", "BUZZ", "FIZZBUZZ"</returns>
         public string Calculate(int input)
         {
             var sb = new StringBuilder();
@@ -32,6 +34,24 @@ namespace FizzBuzz.Business
             }
 
             return sb.ToString();
+        }
+
+        public string[] GetFizBuzzArray(int itemsCount)
+        {
+            if (itemsCount <= 0)
+            {
+                return new string[0];
+            }
+
+            var result = new string[itemsCount + 1];
+            for (var i = 1; i <= itemsCount; i++)
+            {
+                result[i] = $"{i}"; // - Why we should test components within our boundries together
+                
+                // result[i] = Calculate(i);
+            }
+
+            return result;
         }
     }
 }

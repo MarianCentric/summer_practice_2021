@@ -1,0 +1,152 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\work\\summerpractice_2021\\git\\summer_practice_2021\\FizzBuzz\\src\\FizzBuzz.Business.Tests\\FizzBuzz.Business.Tests.csproj": {}
+  },
+  "projects": {
+    "D:\\work\\summerpractice_2021\\git\\summer_practice_2021\\FizzBuzz\\src\\FizzBuzz.Business.Tests\\FizzBuzz.Business.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\work\\summerpractice_2021\\git\\summer_practice_2021\\FizzBuzz\\src\\FizzBuzz.Business.Tests\\FizzBuzz.Business.Tests.csproj",
+        "projectName": "FizzBuzz.Business.Tests",
+        "projectPath": "D:\\work\\summerpractice_2021\\git\\summer_practice_2021\\FizzBuzz\\src\\FizzBuzz.Business.Tests\\FizzBuzz.Business.Tests.csproj",
+        "packagesPath": "C:\\Users\\mspoiala\\.nuget\\packages\\",
+        "outputPath": "D:\\work\\summerpractice_2021\\git\\summer_practice_2021\\FizzBuzz\\src\\FizzBuzz.Business.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mspoiala\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://ap-dco202-art/api/nuget/nuget-virtual": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://tfs-gda/Centric Offshore/_packaging/Nugets/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\work\\summerpractice_2021\\git\\summer_practice_2021\\FizzBuzz\\src\\FizzBuzz.Business\\FizzBuzz.Business.csproj": {
+                "projectPath": "D:\\work\\summerpractice_2021\\git\\summer_practice_2021\\FizzBuzz\\src\\FizzBuzz.Business\\FizzBuzz.Business.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.9.4, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.2, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\work\\summerpractice_2021\\git\\summer_practice_2021\\FizzBuzz\\src\\FizzBuzz.Business\\FizzBuzz.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\work\\summerpractice_2021\\git\\summer_practice_2021\\FizzBuzz\\src\\FizzBuzz.Business\\FizzBuzz.Business.csproj",
+        "projectName": "FizzBuzz.Business",
+        "projectPath": "D:\\work\\summerpractice_2021\\git\\summer_practice_2021\\FizzBuzz\\src\\FizzBuzz.Business\\FizzBuzz.Business.csproj",
+        "packagesPath": "C:\\Users\\mspoiala\\.nuget\\packages\\",
+        "outputPath": "D:\\work\\summerpractice_2021\\git\\summer_practice_2021\\FizzBuzz\\src\\FizzBuzz.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\mspoiala\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://ap-dco202-art/api/nuget/nuget-virtual": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://tfs-gda/Centric Offshore/_packaging/Nugets/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

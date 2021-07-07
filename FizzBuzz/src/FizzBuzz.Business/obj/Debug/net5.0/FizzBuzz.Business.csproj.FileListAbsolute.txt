@@ -1,0 +1,12 @@
+D:\work\summerpractice_2021\git\summer_practice_2021\FizzBuzz\src\FizzBuzz.Business\bin\Debug\net5.0\FizzBuzz.Business.deps.json
+D:\work\summerpractice_2021\git\summer_practice_2021\FizzBuzz\src\FizzBuzz.Business\bin\Debug\net5.0\FizzBuzz.Business.dll
+D:\work\summerpractice_2021\git\summer_practice_2021\FizzBuzz\src\FizzBuzz.Business\bin\Debug\net5.0\ref\FizzBuzz.Business.dll
+D:\work\summerpractice_2021\git\summer_practice_2021\FizzBuzz\src\FizzBuzz.Business\bin\Debug\net5.0\FizzBuzz.Business.pdb
+D:\work\summerpractice_2021\git\summer_practice_2021\FizzBuzz\src\FizzBuzz.Business\obj\Debug\net5.0\FizzBuzz.Business.csproj.AssemblyReference.cache
+D:\work\summerpractice_2021\git\summer_practice_2021\FizzBuzz\src\FizzBuzz.Business\obj\Debug\net5.0\FizzBuzz.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\summerpractice_2021\git\summer_practice_2021\FizzBuzz\src\FizzBuzz.Business\obj\Debug\net5.0\FizzBuzz.Business.AssemblyInfoInputs.cache
+D:\work\summerpractice_2021\git\summer_practice_2021\FizzBuzz\src\FizzBuzz.Business\obj\Debug\net5.0\FizzBuzz.Business.AssemblyInfo.cs
+D:\work\summerpractice_2021\git\summer_practice_2021\FizzBuzz\src\FizzBuzz.Business\obj\Debug\net5.0\FizzBuzz.Business.csproj.CoreCompileInputs.cache
+D:\work\summerpractice_2021\git\summer_practice_2021\FizzBuzz\src\FizzBuzz.Business\obj\Debug\net5.0\FizzBuzz.Business.dll
+D:\work\summerpractice_2021\git\summer_practice_2021\FizzBuzz\src\FizzBuzz.Business\obj\Debug\net5.0\ref\FizzBuzz.Business.dll
+D:\work\summerpractice_2021\git\summer_practice_2021\FizzBuzz\src\FizzBuzz.Business\obj\Debug\net5.0\FizzBuzz.Business.pdb
